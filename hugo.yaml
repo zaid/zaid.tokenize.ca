@@ -1,0 +1,22 @@
+baseURL: https://zaid.tokenize.ca
+disablePathToLower: true
+locale: en-ca
+title: Yet another random blog
+theme: papermod
+params:
+  author: Zaid Al-Jarrah
+  defaultTheme: auto
+  ShowCodeCopyButtons: true
+  showReadingTime: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+
+  socialIcons:
+    - name: github
+      title: Github
+      url: "https://github.com/zaid"
+    - name: x
+      title: Twitter
+      url: "https://x.com/xaid"
