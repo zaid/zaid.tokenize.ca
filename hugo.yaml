@@ -1,4 +1,5 @@
 baseURL: https://zaid.tokenize.ca
+enableEmoji: true
 disablePathToLower: true
 locale: en-ca
 title: Yet another random blog
