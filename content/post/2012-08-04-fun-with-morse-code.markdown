@@ -1,6 +1,7 @@
 ---
 date: '2012-08-04T00:00:00Z'
 title: Fun with Morse code
+tags: ['ruby']
 ---
 
 The idea to this came 2 days ago and I thought it would be a good

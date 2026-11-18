@@ -1,6 +1,7 @@
 ---
 date: '2012-11-12T00:00:00Z'
 title: Prevent destruction of objects with associations using CanCan
+tags: ['ruby', 'ruby-on-rails']
 ---
 
 Sometimes you want to prevent the destruction of objects with

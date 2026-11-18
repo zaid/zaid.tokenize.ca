@@ -1,6 +1,7 @@
 ---
 date: '2014-01-31T00:00:00Z'
 title: 'Fun with Morse Code - Part two'
+tags: ['ruby', 'ember']
 ---
 
 After reading a number of [Ember JS](http://emberjs.com) tutorials, I

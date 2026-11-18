@@ -1,6 +1,7 @@
 ---
 date: '2012-08-27T00:00:00Z'
 title: Testing an observer with DelayedJob and RSpec
+tags: ['ruby', 'ruby-on-rails']
 ---
 
 On one of the projects that I am working on, there was an after_create
