@@ -4,6 +4,11 @@ disablePathToLower: true
 locale: en-ca
 title: Yet another random blog
 theme: papermod
+menu:
+  main:
+    - name: Tags
+      url: tags/
+      weight: 10
 params:
   author: Zaid Al-Jarrah
   defaultTheme: auto
