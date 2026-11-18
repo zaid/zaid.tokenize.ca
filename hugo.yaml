@@ -13,11 +13,19 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
+  ShowPostNavLinks: true
+
+  homeInfoParams:
+    Title: "Hello there :wave:"
+    Content: "This is my personal blog where I share my thoughts about technology, photography, woodworking and more."
 
   socialIcons:
     - name: github
       title: Github
       url: "https://github.com/zaid"
+    - name: linkedin
+      title: LinkedIn
+      url: "https://www.linkedin.com/in/zaidaljarrah/"
     - name: x
       title: Twitter
       url: "https://x.com/xaid"
