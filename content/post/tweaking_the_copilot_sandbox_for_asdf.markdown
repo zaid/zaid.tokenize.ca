@@ -24,9 +24,10 @@ After digging through documentation and testing things with and without the sand
 append the ASDF directory to the `readonlyPaths` list in Copilot settings.
 
 {{< highlight json "linenos=inline">}}
-
+{
     "readonlyPaths": [
-        "/Users/zaid/.asdf",
+        "/some/other/existing/path",
+        "/Users/zaid/.asdf"
     ]
 }
 {{< / highlight >}}
